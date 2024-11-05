@@ -1,0 +1,6 @@
+ID,Name,Type,Condition,Amount
+1,Hammer,Tool,Mint,10
+2,Nails,Fasteners,Good,450
+3,Screwdriver,Tool,Good,25
+4,Nails,Fasteners,Bad,100
+5,Saw,Tool,Fair,15
